@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: cornflowerblue;
+  height: 100vh;
+}
+#box1 {
+  width: 100px;
+  height: 180px;
+  background-color: cornsilk;
+  border-radius: 45% 45% 10% 10%;
+  box-shadow: 0px 4px 10px rgb(0, 0, 0);
+}
+#box {
+  width: 25px;
+  height: 60px;
+  background-color: orange;
+  margin-top: 240px;
+  position: absolute;
+}
